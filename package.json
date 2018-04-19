@@ -2,7 +2,7 @@
   "name": "wing-ui",
   "version": "1.0.0",
   "description": "a vue ui created by wing",
-  "main": "index.js",
+  "main": "./dist/wing-ui.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
