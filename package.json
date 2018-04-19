@@ -1,0 +1,22 @@
+{
+  "name": "wing-ui",
+  "version": "1.0.0",
+  "description": "a vue ui created by wing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/729411964/wingUI.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "wing chunmiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/729411964/wingUI/issues"
+  },
+  "homepage": "https://github.com/729411964/wingUI#readme"
+}
